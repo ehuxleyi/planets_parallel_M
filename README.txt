@@ -32,5 +32,3 @@ Cluster Profile Manager.
 You are free to use, modify and share the code in this directory according 
 to the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License
 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Toby Tyrrell, 2019
